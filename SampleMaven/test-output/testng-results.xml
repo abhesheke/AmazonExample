@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2017-03-08T02:05:59Z" finished-at="2017-03-08T02:05:59Z">
+    <groups>
+      <group name="testing">
+        <method signature="Samplegtestng.test_req_01()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="test_req_01" class="com.test.Samplegtestng"/>
+      </group> <!-- testing -->
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2017-03-08T02:05:59Z" finished-at="2017-03-08T02:05:59Z">
+      <class name="com.test.Samplegtestng">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="beforeMethod" is-config="true" duration-ms="12" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1_req_02()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="test1_req_02" duration-ms="9" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_req_02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeGroupMethod()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="beforeGroupMethod" is-config="true" duration-ms="0" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeGroupMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_req_01()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="test_req_01" duration-ms="2" started-at="2017-03-08T07:35:59Z" description="Testing the application" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_req_01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterGroup()[pri:0, instance:com.test.Samplegtestng@1b0375b3]" name="afterGroup" is-config="true" duration-ms="1" started-at="2017-03-08T07:35:59Z" finished-at="2017-03-08T07:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterGroup -->
+      </class> <!-- com.test.Samplegtestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
