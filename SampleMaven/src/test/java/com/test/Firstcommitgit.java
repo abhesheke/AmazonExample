@@ -9,6 +9,8 @@ System.out.println("Line * Commit");
 System.out.println("Line * Commit---");
 System.out.println("Line 10 conflict");
 		System.out.println("First commit");
+		
+		System.out.println("new Commit in new Branch");
 	}
 	
 }
