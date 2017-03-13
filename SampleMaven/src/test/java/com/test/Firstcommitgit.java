@@ -5,12 +5,12 @@ public class Firstcommitgit {
 	public static void main(String[] args) {
 		System.out.println("Arjun Commit");
 		System.out.println("Arjun Second Commit");
-System.out.println("Line * Commit");
-System.out.println("Line * Commit---");
-System.out.println("Line 10 conflict");
+		System.out.println("Line * Commit");
+		System.out.println("Line * Commit---");
+		System.out.println("Line 10 conflict");
 		System.out.println("First commit");
 		System.out.println("new Commit in new Branch");
-System.out.println("new commit -01 Old");
+		System.out.println("new commit -01 Old--");
 	}
-	
+
 }
