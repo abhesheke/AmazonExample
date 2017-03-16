@@ -1,9 +1,7 @@
 package com.test;
 
-import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterGroups;
 import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -50,6 +48,12 @@ public class Samplegtestng {
 	@Test(description = "Testing the application",groups="testing")
 	public void test_req_01() {
 		System.out.println("2--Test case with Groups"+(a+b+c));
+	}
+	
+	@Test
+	public void testing()
+	{
+		System.out.println("new test Cases");
 	}
 	
 	 @Test public void test1_req_02() 
